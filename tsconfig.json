@@ -1,0 +1,8 @@
+{
+    "compilerOptions":{
+        "outDir": "dist", // diretorio onde vai sair todoso os JS compilados do TS
+        "target": "es2015",
+        "module": "commonjs" // modulo js
+    }
+
+}

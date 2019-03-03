@@ -1,0 +1,1 @@
+nodemon dist/main.js
